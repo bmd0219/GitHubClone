@@ -1,0 +1,15 @@
+{
+  "name": "githubclone",
+  "version": "1.0.0",
+  "description": "GitHub Like Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Madhavan B",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^6.0.2",
+    "react-redux": "^7.2.3"
+  }
+}
