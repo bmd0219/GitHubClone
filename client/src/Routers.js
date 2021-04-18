@@ -19,7 +19,7 @@ export default function Routers() {
           <Route path='/homePage' exact>
             <HomePage/>
           </Route>
-          <Route path='/repository/:id' exact>
+          <Route path='/repository/:name' exact>
             <Repository/>
           </Route>
         </Switch>
